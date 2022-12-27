@@ -46,7 +46,7 @@ I am a fast learner, and I really love to learn new skills. I will always prefer
 - ❓ Ask me about anything related to Data Science and related technologies  
   
 
-- 📊I firmly believe in the art of telling evocative tales, and I'm now learning how to do it using data in all its glorious manifestation.  
+- 📊 I firmly believe in the art of telling evocative tales, and I'm now learning how to do it using data in all its glorious manifestation.  
 
 
 </td><td valign="top" width="50%">
