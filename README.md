@@ -103,9 +103,9 @@ I am a fast learner, and I really love to learn new skills. I will always prefer
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagadishmali567&show_icons=true&locale=en&layout=compact" alt="jagadishmali567" /></p>
+<p><img align="left" src="https://jagadishmali567-7ykf.vercel.app/api/top-langs?username=jagadishmali567&show_icons=true&locale=en&layout=compact" alt="jagadishmali567" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jagadishmali567&show_icons=true&locale=en" alt="jagadishmali567" /></p>
+<p>&nbsp;<img align="center" src="https://jagadishmali567-7ykf.vercel.app/api?username=jagadishmali567&show_icons=true&locale=en" alt="jagadishmali567" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jagadishmali567&" alt="jagadishmali567" /></p>
 
